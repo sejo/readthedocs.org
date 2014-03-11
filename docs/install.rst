@@ -22,7 +22,6 @@ activate it::
     cd rtd
     source bin/activate
 
-
 You will need to verify that your pip version is higher than 1.5 you can do this as such::
     pip --version
     
